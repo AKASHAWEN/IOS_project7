@@ -13,6 +13,7 @@
 		0DEDB4DA1BC5BE820067E9F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDB4D81BC5BE820067E9F4 /* Main.storyboard */; };
 		0DEDB4DC1BC5BE820067E9F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDB4DB1BC5BE820067E9F4 /* Assets.xcassets */; };
 		0DEDB4DF1BC5BE820067E9F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DEDB4DD1BC5BE820067E9F4 /* LaunchScreen.storyboard */; };
+		0DEDB4E71BC5C6370067E9F4 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DEDB4E61BC5C6370067E9F4 /* SwiftyJSON.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0DEDB4DB1BC5BE820067E9F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DEDB4DE1BC5BE820067E9F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DEDB4E01BC5BE820067E9F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DEDB4E61BC5C6370067E9F4 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0DEDB4D21BC5BE820067E9F4 /* AppDelegate.swift */,
 				0DEDB4D41BC5BE820067E9F4 /* MasterViewController.swift */,
 				0DEDB4D61BC5BE820067E9F4 /* DetailViewController.swift */,
+				0DEDB4E61BC5C6370067E9F4 /* SwiftyJSON.swift */,
 				0DEDB4D81BC5BE820067E9F4 /* Main.storyboard */,
 				0DEDB4DB1BC5BE820067E9F4 /* Assets.xcassets */,
 				0DEDB4DD1BC5BE820067E9F4 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				0DEDB4D71BC5BE820067E9F4 /* DetailViewController.swift in Sources */,
 				0DEDB4D51BC5BE820067E9F4 /* MasterViewController.swift in Sources */,
 				0DEDB4D31BC5BE820067E9F4 /* AppDelegate.swift in Sources */,
+				0DEDB4E71BC5C6370067E9F4 /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
